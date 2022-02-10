@@ -73,7 +73,7 @@ sklearn-crfsuite==0.3.6
 smart-open==1.9.0
 tabulate==0.8.6
 tensorboard==2.1.1
-tensorflow==2.1.0
+tensorflow==2.5.3
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
 tokenizers==0.7.0
